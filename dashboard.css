@@ -61,7 +61,8 @@
     flex: 1;
     margin-left: 280px;
     padding: 40px;
-    background: #f5f7fa;
+    background: linear-gradient(rgba(245, 247, 250, 0.95), rgba(245, 247, 250, 0.95)),
+                url('os executivos tocam na estrutura da rede de recursos humanos - RH, gestão eficaz e recrutamento de RH, estrutura organizacional eficaz, treinamento, emprego, prática_.jpg') center/cover fixed;
 }
 
 .top-bar {
